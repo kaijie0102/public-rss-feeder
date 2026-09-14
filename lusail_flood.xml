@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<?xml-stylesheet type="text/xsl" href="https://www.weather.gov.sg/files/rss/rsscapalert/rss-style.xsl"?>
+<?xml-stylesheet type="text/xsl" href="rss-style.xsl"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
 <atom:link rel="self" href="https://www.weather.gov.sg/files/rss/rsscapalert/rsscapalert.xml"/>
