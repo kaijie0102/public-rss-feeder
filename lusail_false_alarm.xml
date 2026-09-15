@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Lusail City News</title>
+    <link>https://www.lusailnews.example.com/feed</link>
+    <description>Local news and events from Lusail</description>
+    <language>en-us</language>
+    <item>
+      <title>Place Vendôme Mall Officially Opens in Lusail</title>
+      <link>https://www.lusailnews.example.com/place-vendome-opening</link>
+      <description>The highly anticipated Place Vendôme Mall has officially opened its doors. Inspired by Parisian architecture, the luxury shopping center features hundreds of retail outlets, dining options, and a captivating dancing fountain.</description>
+      <pubDate>Sat, 16 Apr 2022 10:00:00 +0300</pubDate>
+    </item>
+  </channel>
+</rss>
